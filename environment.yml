@@ -1,0 +1,10 @@
+name: Salar_env
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - landlab
+  - matplotlib
+  - scipy
+  - rasterio
